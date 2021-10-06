@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21940419-2d35-48fd-9acc-e911a45e672e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../Lab2_Intents.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../Lab2_Intents.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../androidTest/java/ssu/softwarednd/androidlab2/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../androidTest/java/ssu/softwarednd/androidlab2/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/OtherActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/layout/activity_other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/layout/activity_other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../test/java/ssu/softwarednd/androidlab2/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../test/java/ssu/softwarednd/androidlab2/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../.." />
+  </component>
+  <component name="ProjectId" id="1yn3MlrzXUU9USVkYd9xWLDMmF4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21940419-2d35-48fd-9acc-e911a45e672e" name="Default Changelist" comment="" />
+      <created>1632873478897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632873478897</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
